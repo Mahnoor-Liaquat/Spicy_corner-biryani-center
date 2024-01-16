@@ -17,9 +17,3 @@ Dive into a sea of taste with our oceanic medley of succulent seafood and aromat
 ### 3. Vegetarian Paradise Biryani
 Experience a burst of flavors with our vibrant fusion of fresh veggies, aromatic herbs, and basmati rice. Proof that biryani can be extraordinary without meat.
 
-## Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Mahnoor-Liaquat/spicy_corner-biryani-center.git
-
